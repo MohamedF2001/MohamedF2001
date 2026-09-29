@@ -108,7 +108,7 @@ const farid = {
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=MohamedF2001&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=F75709&icon_color=F75709&text_color=ffffff&border_color=F75709&hide_border=false&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&bg_color=0d0d0d&title_color=F75709&text_color=ffffff&border_color=F75709" alt="Top Langages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedF2001&layout=compact&theme=dark&bg_color=0d0d0d&title_color=F75709&text_color=ffffff&border_color=F75709" alt="Top Langages" />
 
 <br/>
 
